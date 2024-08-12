@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="159df111-a26e-421a-89fe-29b5a6b4e1e5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Diamond_Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pyramid_Number_Pattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Left_triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Left_triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +50,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Diamond_Shape.executor": "Run",
     "Application.Left_triangle.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Pyramid_Number_Pattern.executor": "Run",
     "Application.Triangle.executor": "Run",
     "Application.even_or_odd.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -88,6 +91,8 @@
       <workItem from="1723191780841" duration="4045000" />
       <workItem from="1723204988127" duration="154000" />
       <workItem from="1723207678214" duration="2577000" />
+      <workItem from="1723300997155" duration="560000" />
+      <workItem from="1723442376678" duration="301000" />
     </task>
     <servers />
   </component>
