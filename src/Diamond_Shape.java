@@ -6,7 +6,10 @@ public class Diamond_Shape {
           int num = 6;
 
           for(int i=0; i<=num; i++){
-              System.out.println("*");
+              for(int j =1 ; j<=i; j++){
+                  System.out.print("*" + " ");
+              }
+             System.out.println();
           }
 
     }
