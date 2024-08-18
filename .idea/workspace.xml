@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="159df111-a26e-421a-89fe-29b5a6b4e1e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/While_loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factorial_Calculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sum_of_Digits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Diamond_Shape.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +52,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Diamond_Shape.executor": "Run",
+    "Application.Factorial_Calculation.executor": "Run",
     "Application.Left_triangle.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Pyramid_Number_Pattern.executor": "Run",
+    "Application.Sum_of_Digits.executor": "Run",
     "Application.Triangle.executor": "Run",
     "Application.UserMainCode.executor": "Run",
     "Application.even_or_odd.executor": "Run",
@@ -72,6 +76,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Factorial_Calculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Factorial_Calculation" />
+      <module name="Learn_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Factorial_Calculation" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -96,6 +114,7 @@
       <workItem from="1723629760089" duration="2080000" />
       <workItem from="1723794058641" duration="23000" />
       <workItem from="1723823106650" duration="275000" />
+      <workItem from="1723965128863" duration="2794000" />
     </task>
     <servers />
   </component>
