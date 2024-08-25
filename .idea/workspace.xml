@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="159df111-a26e-421a-89fe-29b5a6b4e1e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Factorial_Calculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sum_of_Digits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforce/A_Watermelon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Diamond_Shape.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +49,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.A_Watermelon.executor": "Run",
     "Application.Diamond_Shape.executor": "Run",
     "Application.Factorial_Calculation.executor": "Run",
     "Application.Left_triangle.executor": "Run",
@@ -115,6 +114,8 @@
       <workItem from="1723794058641" duration="23000" />
       <workItem from="1723823106650" duration="275000" />
       <workItem from="1723965128863" duration="2794000" />
+      <workItem from="1724046209485" duration="952000" />
+      <workItem from="1724557635524" duration="1697000" />
     </task>
     <servers />
   </component>
