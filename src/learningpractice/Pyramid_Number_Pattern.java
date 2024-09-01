@@ -1,3 +1,5 @@
+package learningpractice;
+
 import java.util.Scanner;
 public class Pyramid_Number_Pattern {
     public static void main(String[] args){

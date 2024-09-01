@@ -1,4 +1,5 @@
-import java.util.Scanner;
+package learningpractice;
+
 public class While_loop {
     
 }
