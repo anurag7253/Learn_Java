@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="159df111-a26e-421a-89fe-29b5a6b4e1e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Sorting/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factorial_Calculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningpractice/Factorial_Calculation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Left_triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningpractice/Left_triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningpractice/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pyramid_Number_Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningpractice/Pyramid_Number_Pattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sum_of_Digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningpractice/Sum_of_Digits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningpractice/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/While_loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningpractice/While_loop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/even_or_odd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningpractice/even_or_odd.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +56,7 @@
     "Application.Diamond_Shape.executor": "Run",
     "Application.Factorial_Calculation.executor": "Run",
     "Application.Left_triangle.executor": "Run",
+    "Application.LongestCommonPrefix.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Pyramid_Number_Pattern.executor": "Run",
     "Application.Sum_of_Digits.executor": "Run",
@@ -85,6 +79,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="string" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Factorial_Calculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="learningpractice.Factorial_Calculation" />
@@ -130,6 +129,7 @@
       <workItem from="1724904788649" duration="14000" />
       <workItem from="1725075801588" duration="2708000" />
       <workItem from="1725185178890" duration="212000" />
+      <workItem from="1725266026130" duration="2479000" />
     </task>
     <servers />
   </component>
