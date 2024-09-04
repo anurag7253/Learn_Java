@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="159df111-a26e-421a-89fe-29b5a6b4e1e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/string/LongestCommonPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aRRay/array_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/LongestCommonPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/Solution.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +34,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/anurag7253/Learn_Java.git&quot;,
-    &quot;accountId&quot;: &quot;b5eea194-514b-462b-b683-c3fa7903d12f&quot;
+    &quot;accountId&quot;: &quot;62ea201c-e912-4a7a-afd0-aa2a4bf1eb49&quot;
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
@@ -62,6 +63,7 @@
     "Application.Sum_of_Digits.executor": "Run",
     "Application.Triangle.executor": "Run",
     "Application.UserMainCode.executor": "Run",
+    "Application.array_1.executor": "Run",
     "Application.even_or_odd.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -97,14 +99,6 @@
         <item itemvalue="Application.Factorial_Calculation" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
