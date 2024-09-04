@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="159df111-a26e-421a-89fe-29b5a6b4e1e5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/aRRay/Input.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/aRRay/array_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aRRay/reverseArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/string/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/LongestCommonPrefix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/string/Solution.java" beforeDir="false" />
@@ -56,6 +58,7 @@
     "Application.BubbleSort.executor": "Run",
     "Application.Diamond_Shape.executor": "Run",
     "Application.Factorial_Calculation.executor": "Run",
+    "Application.Input.executor": "Run",
     "Application.Left_triangle.executor": "Run",
     "Application.LongestCommonPrefix.executor": "Run",
     "Application.Main.executor": "Run",
@@ -65,6 +68,7 @@
     "Application.UserMainCode.executor": "Run",
     "Application.array_1.executor": "Run",
     "Application.even_or_odd.executor": "Run",
+    "Application.reverseArray.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
