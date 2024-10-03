@@ -1,12 +1,12 @@
 package string;
-import java.util.Scanner;
-public class LongestCommonPrefix {
-    public static void main(String[] args){
-        Solution sol = new Solution();
-        String[] strs = {"flower", "flow", "flight"};
-        System.out.println(sol.longestCommonPrefix(strs));
 
+public class LongestCommonPrefix {
+    public static void main(String[] args) {
+        LongestCommonPrefix lcp = new LongestCommonPrefix();
+        String[] strs = {"flower", "flow", "flight"};
+        System.out.println(lcp.longestCommonPrefix(strs));
     }
+
     public String longestCommonPrefix(String[] strs) {
         if (strs == null || strs.length == 0) {
             return "";
