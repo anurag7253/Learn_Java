@@ -6,6 +6,7 @@ public class stringExample {
         System.out.println(massage);
         int ans = sum(20,30);
         System.out.println(ans);
+        
     }
 //  RETURN STRING
     static String greet(){
