@@ -2,16 +2,16 @@ package Pattern;
 
 import java.util.Scanner;
 
-public class P2 {
-
+public class p5 {
     public static void patter2(int row,int colm){
 
-       for (int c=1; c <= colm; c++ ){
-           for ( int r=1 ; r <= c ; r++){
-               System.out.print("*"+" ");
-           }
-           System.out.println();
-       }
+        for (int c=1; c <= colm; c++ ){
+            for ( int r=1 ; r <= row ; r++){
+                System.out.print("*"+" ");
+            }
+            row--;
+            System.out.println();
+        }
 
 
     }

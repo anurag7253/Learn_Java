@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="159df111-a26e-421a-89fe-29b5a6b4e1e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Pattern/P1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern/P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern/p3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern/p4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern/p5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern/p6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pattern/P2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern/P2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +62,7 @@
     "Application.LongestCommonPrefix.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.P1.executor": "Run",
+    "Application.P2.executor": "Run",
     "Application.Pyramid_Number_Pattern.executor": "Run",
     "Application.Sum_of_Digits.executor": "Run",
     "Application.Triangle.executor": "Run",
@@ -66,6 +70,10 @@
     "Application.calculateAverage.executor": "Run",
     "Application.even_or_odd.executor": "Run",
     "Application.functionBasic.executor": "Run",
+    "Application.p3.executor": "Run",
+    "Application.p4.executor": "Run",
+    "Application.p5.executor": "Run",
+    "Application.p6.executor": "Run",
     "Application.stringExample.executor": "Run",
     "Application.sum.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
